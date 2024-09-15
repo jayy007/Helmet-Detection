@@ -98,18 +98,6 @@ Notable that different models have different input size and different input scal
 
   ![](hardhat-wearing-detection/results/fps_map.svg)
 
-## Examples
-
-(hardhat-wearing-detection/imgs/00163.jpg)
-
-(hardhat-wearing-detection/imgs/00197.jpg)
-
-(hardhat-wearing-detection/imgs/00250.jpg)
-
-(hardhat-wearing-detection/imgs/00807.jpg)
-
-(hardhat-wearing-detection/imgs/00877.jpg)
-
 ## Citation
 Please cite the paper in your publications if it helps your research.
 
